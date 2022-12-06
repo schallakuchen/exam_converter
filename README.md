@@ -1,14 +1,11 @@
 # exam_converter
-first SLM exam
 
-How to use:
+## How to use:
 1. Repository Downloaden
-
-1.1 https://github.com/schallakuchen/exam_converter
-2. In IntelliJ öffnen
-3. ExamConvererApplication starten
-4. Browser öffnen und REST API calls aufrufen
-
-4.1 http://localhost:8080/centimeter/1
-4.2 http://localhost:8080/meter/1
-4.3 Werte zurückbekommen
+2. https://github.com/schallakuchen/exam_converter
+3. In IntelliJ öffnen
+4. ExamConvererApplication starten
+5. Browser öffnen und REST API calls aufrufen
+6. http://localhost:8080/centimeter/1
+7. http://localhost:8080/meter/1
+8. Werte zurückbekommen
