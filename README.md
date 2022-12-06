@@ -3,6 +3,7 @@ first SLM exam
 
 How to use:
 1. Repository Downloaden
+1.1 https://github.com/schallakuchen/exam_converter
 2. In IntelliJ öffnen
 3. ExamConvererApplication starten
 4. Browser öffnen und REST API calls aufrufen
